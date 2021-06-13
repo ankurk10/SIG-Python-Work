@@ -48,7 +48,7 @@ This repository contains all the tasks performed under CSI's SIG Python 2020-21
 * Learnt about Strings in Python
 * Learnt about Lists in Python
 
---
+---
 
 <!-- OL -->
 ## 3. [Module 6 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module6 "Go to Module 6")
