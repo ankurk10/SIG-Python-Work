@@ -4,7 +4,7 @@ This repository contains all the tasks performed under CSI's SIG Python 2020-21
 ---
 
 <!-- OL -->
-## 1. [Module 1 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module1 "Go to Module 1")
+## [Module 1 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module1 "Go to Module 1")
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt about installation of Python
@@ -13,7 +13,7 @@ This repository contains all the tasks performed under CSI's SIG Python 2020-21
 ---
 
 <!-- OL -->
-## 2. [Module 2 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module2 "Go to Module 2")
+##  [Module 2 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module2 "Go to Module 2")
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt about Python Syntax
@@ -23,7 +23,7 @@ This repository contains all the tasks performed under CSI's SIG Python 2020-21
 --- 
 
 <!-- OL -->
-## 3. [Module 3 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module3 "Go to Module 3")
+##  [Module 3 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module3 "Go to Module 3")
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt about conditional statements
@@ -32,7 +32,7 @@ This repository contains all the tasks performed under CSI's SIG Python 2020-21
 ---
 
 <!-- OL -->
-## 3. [Module 4 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module4 "Go to Module 4")
+##  [Module 4 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module4 "Go to Module 4")
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt to take input form the user in Python
@@ -42,7 +42,7 @@ This repository contains all the tasks performed under CSI's SIG Python 2020-21
 ---
 
 <!-- OL -->
-## 3. [Module 5 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module5 "Go to Module 5")
+##  [Module 5 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module5 "Go to Module 5")
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt about Strings in Python
@@ -51,7 +51,7 @@ This repository contains all the tasks performed under CSI's SIG Python 2020-21
 ---
 
 <!-- OL -->
-## 3. [Module 6 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module6 "Go to Module 6")
+##  [Module 6 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module6 "Go to Module 6")
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt about Dictionary in Python
@@ -60,7 +60,7 @@ This repository contains all the tasks performed under CSI's SIG Python 2020-21
 ---
 
 <!-- OL -->
-## 3. [Module 7 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module7 "Go to Module 7")
+##  [Module 7 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module7 "Go to Module 7")
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt about User Defined Functions in Python
@@ -70,7 +70,7 @@ This repository contains all the tasks performed under CSI's SIG Python 2020-21
 ---
 
 <!-- OL -->
-## 3. [Module 8 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module8 "Go to Module 8")
+##  [Module 8 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module8 "Go to Module 8")
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt about Lists and Dictionary in Python
@@ -79,7 +79,7 @@ This repository contains all the tasks performed under CSI's SIG Python 2020-21
 ---
 
 <!-- OL -->
-## 3. [Module 9 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module9 "Go to Module 9")
+##  [Module 9 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module9 "Go to Module 9")
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt about File Handling in Python
@@ -87,7 +87,7 @@ This repository contains all the tasks performed under CSI's SIG Python 2020-21
 ---
 
 <!-- OL -->
-## 3. [Module 10 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module10 "Go to Module 10")
+##  [Module 10 : ](https://github.com/ankurk10/SIG-Python-Work/tree/main/Module10 "Go to Module 10")
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt about Classes and Objects in Python
